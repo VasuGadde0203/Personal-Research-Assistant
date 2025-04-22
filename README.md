@@ -10,7 +10,6 @@ Welcome to the **Personal Research Assistant**, a web-based application designed
 - [Deployment](#deployment)
 - [API Endpoints](#api-endpoints)
 - [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## Features
