@@ -1,0 +1,14 @@
+# Ignore Python virtual environment
+venv/
+.venv/
+
+# Ignore environment variables file
+.env
+
+# Ignore other common files (optional)
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.DS_Store
+*.log
